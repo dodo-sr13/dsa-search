@@ -16,7 +16,7 @@ DSA Search Engine is a dynamic search engine designed to streamline your journey
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/dodo-sr13/dsa-search Search Engine.git`
+1. Clone the repository: `git clone https://github.com/dodo-sr13/dsa-search.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
 
